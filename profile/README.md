@@ -97,9 +97,9 @@
 
 ## 🛠 기술스택
 
-| 구분            | 기술                     |
+| 분야            | 핵심 기술                 |
 | --------------- | ------------------------ |
 | **Frontend**    | Vue 3, JavaScript, Pinia |
-| **Styling**     | Tailwind CSS, shadcn-vue |
-| **실시간 통신** | SSE (Server-Sent Events) |
-| **기타**        | PWA                      |
+| **Backend**     | Java 17, Spring 5.3, MySQL, Redis |
+| **AI / Data** | OpenAI API, CODEF API  |
+| **Infra**        | AWS, Docker Compose, GitHub Actions                     |
