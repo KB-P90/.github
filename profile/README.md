@@ -4,7 +4,8 @@
 <h1>🏆 최우수상 KB IT's Your Life 프로젝트</h1>
 
 <p><strong>프로젝트 기간 :</strong> 2026.07 ~ 2026.08 (2개월)</p>
-<p><strong>주제 :</strong> MZ세대를 위한 자산 관리 서비스</p>
+<p><strong>대주제 :</strong> MZ세대를 위한 자산 관리 서비스</p>
+<p><strong>소주제 :</strong> 예비부부 결혼식 자금 마련을 위한 공동 자산 관리 서비스</p>
 
 <br>
 
