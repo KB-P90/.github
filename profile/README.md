@@ -114,10 +114,11 @@
 
 <h2>🛠 기술스택</h2>
 
-<table align="center">
+
+<table align="center" width="550">
   <tr>
-    <th align="center">분야</th>
-    <th align="center">핵심 기술</th>
+    <th align="center" width="150">분야</th>
+    <th align="center" width="400">핵심 기술</th>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -136,5 +137,6 @@
     <td align="center">AWS, Docker Compose, GitHub Actions</td>
   </tr>
 </table>
+
 
 </div>
