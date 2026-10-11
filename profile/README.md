@@ -1,13 +1,21 @@
-# 🏆최우수상 KB IT's Your Life 프로젝트 
-프로젝트 기간 : 2026.07 ~ 2026.08 (2개월)
 
-주제 : MZ세대를 위한 자산 관리 서비스
+<div align="center">
 
-## 서비스 개요
-<img width="703" height="396" alt="image" src="https://github.com/user-attachments/assets/9aa7e34a-b507-48a6-9e7e-e95e9ae1a29e" />
+<h1>🏆 최우수상 KB IT's Your Life 프로젝트</h1>
 
-## User Flow
-<img width="698" height="388" alt="image" src="https://github.com/user-attachments/assets/fb21456e-2a2b-4e35-a800-c9b81b36dadf" />
+<p><strong>프로젝트 기간 :</strong> 2026.07 ~ 2026.08 (2개월)</p>
+<p><strong>주제 :</strong> MZ세대를 위한 자산 관리 서비스</p>
+<br>
+<h2>서비스 개요</h2>
+
+<img width="703" height="396" alt="서비스 개요" src="https://github.com/user-attachments/assets/9aa7e34a-b507-48a6-9e7e-e95e9ae1a29e" />
+<br>
+<br>
+<h2>User Flow</h2>
+
+<img width="698" height="388" alt="User Flow" src="https://github.com/user-attachments/assets/fb21456e-2a2b-4e35-a800-c9b81b36dadf" />
+
+</div>
 
 ## 주요 기능
 ### 1. 예산 설정
